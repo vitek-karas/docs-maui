@@ -249,7 +249,7 @@ Android, iOS, and Mac Catalyst.
 - **Disadvantages**: Interpreted code runs slower than compiled code
 - **MSBuild property**: `<UseInterpreter>true</UseInterpreter>`
 
-For more information, see [Mono interpreter on iOS and Mac Catalyst](~/macios/interpreter.md).
+For more information, see [Interpreters on iOS and Mac Catalyst](~/macios/interpreter.md).
 
 ::: moniker-end
 
@@ -502,7 +502,7 @@ runtime and compilation behavior:
 ## See also
 
 - [Native AOT deployment on iOS and Mac Catalyst](nativeaot.md)
-- [Mono interpreter on iOS and Mac Catalyst](~/macios/interpreter.md)
+- [Interpreters on iOS and Mac Catalyst](~/macios/interpreter.md)
 - [Trim a .NET MAUI app](trimming.md)
 - [Improve app performance](performance.md)
 - [Native AOT deployment overview](/dotnet/core/deploying/native-aot)
